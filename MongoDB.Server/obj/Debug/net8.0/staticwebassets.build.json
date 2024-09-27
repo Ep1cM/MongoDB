@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "9Kt5noMnPBIK6hoYRK7akBoUsCHZjEIVavvIdlEEoWY=",
+  "Source": "MongoDB.Server",
+  "BasePath": "_content/MongoDB.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\projects\\MongoDB\\mongodb.client\\mongodb.client.esproj",
+      "Version": 2,
+      "Source": "mongodb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

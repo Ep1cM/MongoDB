@@ -1,0 +1,1 @@
+C:\projects\MongoDB\mongodb.client\obj\Debug\mongodb.client.esproj.CoreCompileInputs.cache
